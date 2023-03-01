@@ -1,0 +1,11 @@
+Comandos Git
+
+dir(listar)
+cd (Change Directory)
+mkdir(Make directory - Criar uma pasta)
+del(delete)
+rmdir(Remove Directory)
+cd.. (Retroceder em nível)
+
+
+Obs: Sempre escrever com letras minúsculas
