@@ -1,0 +1,20 @@
+Comandos Git
+
+dir(listar)
+cd (Change Directory)
+mkdir(Make directory - Criar uma pasta)
+del(delete)
+rmdir(Remove Directory)
+cd .. (Retroceder em nível)
+
+mv Mover
+rm Remover
+cls Limpar Terminal
+ls Mostrar pasta oculta
+
+Primeira letra + TAB Completar um nome
+
+
+Obs: Sempre escrever c
+
+git reset --hard origin
