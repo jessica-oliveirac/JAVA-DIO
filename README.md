@@ -6,5 +6,5 @@
 ## REPOSITÓRIOS
 
 - DESAFIOS
-- GIT-GIT-HUB
+- GIT-GITHUB
 - Java-Introdução
